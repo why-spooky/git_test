@@ -1,1 +1,2 @@
 Hello Odin Project!
+Added line for commit message check!
